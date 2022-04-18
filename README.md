@@ -1,2 +1,2 @@
 # invariant-model
-Codes for grace's master project
+Grace's master project
